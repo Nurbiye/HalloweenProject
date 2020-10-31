@@ -9,3 +9,6 @@ public class HalloweenTest {
     //this is use for one time for each project, later you don't see that function in VCS
 
 }
+//commit--> command + k
+// push --> command + shift +k
+//pull/update --> command+t
